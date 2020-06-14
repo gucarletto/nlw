@@ -1,6 +1,4 @@
-node_modules/
-.code_workspace
-.zip
+node_modules/**/*
 .expo/*
 npm-debug.*
 *.jks
@@ -11,5 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+
 # macOS
 .DS_Store
