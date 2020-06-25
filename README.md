@@ -7,7 +7,7 @@
 
 `npm knex:migrate`
 
-`npm knex:seed'
+`npm knex:seed`
 
 `npm run dev`
 
